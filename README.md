@@ -20,7 +20,7 @@ This was a team-based academic project for the Information Visualization course 
 
 ## Dashboard Link
 
-🔗 [Tableau Public Story](https://public.tableau.com/views/MAIN_17445673418680/Story1)
+🔗 [Tableau Public Story](https://public.tableau.com/views/MAIN_17503802816980/GameofChartsEndgameofSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Acknowledgments
 
