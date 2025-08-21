@@ -1,32 +1,45 @@
 # Video Game Sales Analysis
 
-This project presents an interactive Tableau dashboard analyzing global video game sales across platforms, genres, and publishers. The goal is to uncover insights and patterns to better understand market trends.
+This project showcases an **interactive Tableau dashboard** analyzing global video game sales across platforms, genres, and publishers.  
+The goal was to uncover **market trends, sales patterns, and genre preferences** to better understand the gaming industry landscape.  
 
-## Project Overview
+---
 
-- Cleaned and preprocessed raw game sales data
-- Built multiple visuals and dashboards using Tableau
-- Final interactive story published on Tableau Public
-- I led the project end-to-end, including **data cleaning**, **dashboard design**, **storyboarding**, and overall project coordination
+## Project Overview  
 
-This was a team-based academic project for the Information Visualization course at the University of Houston.
+- Cleaned and preprocessed raw video game sales data (~16K records)  
+- Designed and developed multiple **dashboards and storyboards** in Tableau  
+- Published an **interactive story on Tableau Public** for broader accessibility  
+- Led the project end-to-end, including **data cleaning**, **dashboard design**, **storyboarding**, and **team coordination**  
+- Conducted trend analysis that highlighted best-selling platforms, top publishers, and emerging genre patterns  
 
-## Files Included
+This was a **team-based academic project** completed as part of the *Information Visualization* course at the **University of Houston**.  
 
-- `main-workbook.twbx`: Tableau packaged workbook containing dashboards and story pages
-- `vgsales-cleaned-data.csv`: Cleaned dataset used for visualizations
-- `vgsales-raw-data.csv`: Original raw dataset
-- `report.pdf`: Final report summarizing insights and visualizations
+---
 
-## Dashboard Link
+## Files Included  
 
-🔗 [Tableau Public Story](https://public.tableau.com/views/MAIN_17503802816980/GameofChartsEndgameofSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- `main-workbook.twbx` → Tableau packaged workbook with dashboards and story pages  
+- `vgsales-cleaned-data.csv` → Cleaned dataset used for analysis  
+- `vgsales-raw-data.csv` → Original dataset prior to preprocessing  
+- `report.pdf` → Final report summarizing methodology, insights, and visualizations  
 
-## Acknowledgments
+---
 
-- Project completed by Group 11 as part of coursework under Prof. Lucy Nwosu [linkedin.com/in/lucy-nwosu-phd](https://www.linkedin.com/in/lucy-nwosu-phd-69a463142/)
-- All visualizations and insights are built using Tableau Desktop
+## Dashboard Link  
 
-## Notes
+🔗 [View Tableau Public Story](https://public.tableau.com/views/MAIN_17503802816980/GameofChartsEndgameofSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-This repository contains the full Tableau workbook, supporting datasets, and project documentation.
+---
+
+## Acknowledgments  
+
+- Project completed by **Group 11** under the guidance of *Prof. Lucy Nwosu*  
+- [Lucy Nwosu, Ph.D.](https://www.linkedin.com/in/lucy-nwosu-phd-69a463142/) – Course Instructor, Information Visualization  
+- All visualizations built using **Tableau Desktop**  
+
+---
+
+## Notes  
+
+This repository contains the **full Tableau workbook**, supporting datasets, and the final project report documenting insights and design process.  
